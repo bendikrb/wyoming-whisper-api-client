@@ -56,7 +56,6 @@ WHISPER_LANGUAGES = [
     "mk",
     "ml",
     "mn",
-    "mn",
     "mr",
     "ms",
     "mt",
