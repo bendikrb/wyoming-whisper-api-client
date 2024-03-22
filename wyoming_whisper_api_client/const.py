@@ -56,6 +56,7 @@ WHISPER_LANGUAGES = [
     "mk",
     "ml",
     "mn",
+    "mn",
     "mr",
     "ms",
     "mt",
@@ -99,3 +100,6 @@ WHISPER_LANGUAGES = [
     "yo",
     "zh",
 ]
+
+OPENAI_DEFAULT_MODEL = "whisper-1"
+OPENAI_API_URL = "https://api.openai.com/v1/audio/transcriptions"
